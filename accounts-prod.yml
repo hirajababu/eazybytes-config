@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related to Prod APIs"
+  message: "Welcome to EasyBank accounts related to  (production)  Prod APIs"
   contactDetails:
     name: "John prod- prod Developer"
     email: "prod@gmail.com"

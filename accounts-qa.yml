@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related to QA APIs"
+  message: "Welcome to EasyBank accounts related to (Qaulity) QA APIs"
   contactDetails:
     name: "John Doe- QA lead"
     email: "QA@gmail.com"

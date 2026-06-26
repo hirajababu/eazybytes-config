@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EasyBank accounts related to QA APIs"
+  contactDetails:
+    name: "John Doe- QA lead"
+    email: "QA@gmail.com"
+  onCallSupport:
+    - "(666)666-1234"
+    - "(666)666-1233"

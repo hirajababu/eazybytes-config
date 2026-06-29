@@ -6,7 +6,7 @@ accounts:
 
   contactDetails:
     name: "John Doe- Developer"
-    email: "john@gmail.com"
+    email: "john@gmail.com1"
 
   onCallSupport:
     - "(555)555-1234"
